@@ -1,0 +1,41 @@
+_repo: He-Walked-Around-the-Horses_18807
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cartier, Edd
+    birthdate: 1914
+    gutenberg_agent_id: '8270'
+    url: http://www.gutenberg.org/2009/agents/8270
+    wikipedia: http://en.wikipedia.org/wiki/Edd_Cartier
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Science fiction author H. Beam Piper is regarded as one of the genre's
+  most inventive practitioners, and this short but gripping tale puts his remarkable
+  creative powers on full display. "He Walked Around the Horses" takes the real-world
+  case of the mysterious disappearance of a nineteenth-century diplomat and melds
+  it into a mind-bending science fiction story. Fans of speculative SF will love this
+  gratifying read.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: He Walked Around the Horses
+url: http://www.gutenberg.org/ebooks/18807
